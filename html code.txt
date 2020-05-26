@@ -1,0 +1,117 @@
+	<html> 
+	<head> 
+	<meta charset="utf-8"> 
+	<meta name="description"content"this is my website"> 
+	<title> My website  </title> 
+	<link rel="stylesheet" href="project.CSS" /> 
+
+	
+	
+	</head> 
+	<body class="body" > 
+	<div >
+		<fieldset><legend style="font-size:large" >C++</legend>
+	
+	<p >C++ is a cross-platform language that can be used to create high-performance applications.</p>
+<p>C++ was developed by Bjarne Stroustrup, as an extension to the C language.</p>
+<p>C++ gives programmers a high level of control over system resources and memory. C++ is an Object Oriented Programming language but is not purely Object Oriented. Its features like Friend and Virtual, violate some of the very important OOPS features, rendering this language unworthy of being called completely Object Oriented. Its a middle level language.
+</p>
+<p>C++ is a middle-level language rendering it the advantage of programming low-level (drivers, kernels) and even higher-level applications (games, GUI, desktop apps etc.). The basic syntax and code structure of both C and C++ are the same.</p>
+<h1>Featuers of C++:</h1>
+
+<ul>
+	<li> Simple
+	<p> It is a simple language in the sense that programs can be broken down into logical units and parts, has a rich libray support and a variety of data-types.</p></li>
+	<li>Machine Independent but Platform Dependent
+	<p>A C++ executable is not platform-independent (compiled programs on Linux won’t run on Windows), however they are machine independent.</p></li>
+	<li>Mid-level language
+	<p>It is a mid-level language as we can do both systems-programming (drivers, kernels, networking etc.) and build large-scale user applications (Media Players, Photoshop, Game Engines etc.)</p></li>
+<LI>Rich library support: 
+	<P>Has a rich library support (Both standard ~ built-in data structures, algorithms etc.) as well 3rd party libraries (e.g. Boost libraries) for fast and rapid development</P>
+</LI>
+<LI>	Speed of execution
+	<P>C++ programs excel in execution speed. Since, it is a compiled language, and also hugely procedural. Newer languages have extra in-built default features such as grabage-collection, dynamic typing etc. which slow the execution of the program overall. Since there is no additional processing overhead like this in C++, it is blazing fast</P>
+</LI>
+<li>Pointer and direct Memory-Access
+	<p>C++ provides pointer support which aids users to directly manipulate storage address. This helps in doing low-level programming (where one might need to have explicit control on the storage of variables).</p>
+</li>
+</ul>
+<nav>
+			<ul  >
+               <li >Click here to know about history of C++  <a href=" h.HTML"> C++ history</a>
+			   
+			   </li>
+			</ul>
+</nav>
+<h1>C++ fully supports object-oriented programming, including the four pillars of object-oriented development </h1>
+<ul>
+	<li>Encapsulation</li>
+	<li>Data hiding</li>
+	<li>Inheritance</li>
+	<li>Polymorphism</li>
+</ul>
+<h1>Uses of  C++</h1>
+<ul>
+	<li>	C++ is used in essentially every application domain by hundreds of thousands of programmers.</li>
+	<li>	C++ is used extensively for writing system drivers and other applications that rely on direct hardware manipulation under real-time constraints.</li>
+	<li>	C++ is commonly used for teaching and study, as it is clean enough to teach simple concepts successfully.</li>
+	<li>	Anyone who has either used an Apple Macintosh or a PC running Windows has indirectly used C++ because these systems' primary user interfaces are written
+   in C++
+</li>
+</ul>
+<h1>Basic C++ Syntax</h1>
+<ul>
+	<h3>If we consider a C++ program, it can be described as a set of objects which communicate by invoking the methods of each other. Now let's look briefly at wha a class, object, methods, and instant variables mean.</h3>
+<li>	Object? Objects have different states and behaviors. Example: A dog has statements-colour, gender , race and behaviors-wagging, barking and eating. An object is a single instance of a class</li>
+<li>Class ? A class can be described as a template / blueprint describing the behaviors / states supporting the object of its kind.</li>
+<li>	Methods ? Methods are basically conducts. A class can have several methods in it. It's in methods where the logics are written, data is manipulated, and all actions are carried out.</li>
+<li>	Instance Variables ? Each object has its unique set of instance variables. An object's state is created by the values assigned to these instance variables.</li>
+</ul>
+<h1>C++ Program Structure</h1>
+<p>Let us look at a simple code that would print the words Hello World.</p>
+<img src ="capture.png" width="450" height="450" ></fieldset>
+	
+
+	<nav>
+			<ul  >
+               <li> Let us look at the various parts of the above program : <a href=" l.HTML"> Click here</a>
+			   
+			   </li>
+			</ul>
+</nav>
+	<h1>Semicolons and Blocks in C++</h1>
+	<p>In C++, the semicolon is a statement terminator. That is, each individual statement must be ended with a semicolon. It indicates the end of one logical entity.</p>
+<h3>For example, following are three different statements ?</h3>
+<img src ="capture1.png" width="250" height="250" >
+
+<nav>
+			<ul  >
+               <li> C++ Data Types <a href=" data.HTML"> Click here</a>
+			   
+			   </li>
+			</ul>
+</nav>
+<nav>
+			<ul  >
+               <li> Variable Definition in C++ <a href=" def.HTML"> Click here</a>
+			   
+			   </li>
+			</ul>
+</nav>
+</div>
+</body> 
+	</html>
+
+
+	
+	 
+	
+	
+			
+	
+	
+
+	
+	
+		
+	

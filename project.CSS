@@ -1,0 +1,26 @@
+
+.body{
+    
+  background-image: url('images.jpg');
+  background-size: cover;
+   background-attachment:fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+  ul{
+    list-style-type:square 
+    
+  }
+  li{
+     font-size:xx-large;
+  }
+  p{
+     font-size:large;
+  }
+a:hover{
+    color:yellow;
+    font-weight:bolder;
+    font-size:xx-large;
+    
+}
